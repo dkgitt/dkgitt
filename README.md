@@ -1,8 +1,8 @@
 # Hi! 👋🏼�
 
 
-- 🔭 I’m currently working on: **[DK-Media](https://dk-media.no)**
-- 🔭 I’m currently working on: **[Bivrost Consulting AS]**
+- 🔭 I'm the owner of: **[DK-Media](https://dk-media.no)**
+- 🔭 I’m the co-owner of: **[Bivrost Consulting AS]**
 - 💬 Ask me about: **C#, Html, Css / Scss, Angular, Javascript, Typescript, Asp.Net Core, Next.js**
 - ⚡ Fun fact: **I'm a programmer who has a girlfriend and a cat**
 
@@ -13,7 +13,6 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
