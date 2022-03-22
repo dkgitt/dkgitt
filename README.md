@@ -1,13 +1,10 @@
-# Hi, I'm Martin 👋🏼👨🏻‍💻
+# Hi! 👋🏼�
 
-I'm a 17 year old software engineer from Norway. Currently im going to Hamar Cathedralschool, in Informationtechnology second year. In my spare time i am running my own company [Limeyfy](https://limeyfy.com), where i design, code and host websites for small to medium size businesses. 
 
-I'm really passionate about coding and programming. I love working with react and typescript in front-end. And when it comes to back-end i love using .Net core.
-
-- 🔭 I’m currently working on: **[Limeyfy](https://limeyfy.no)**
-- 🌱 I’m currently learning: **Data structure and algorithms**
-- 💬 Ask me about: **C#, Html, Css / Scss, React, Javascript, Typescript, Asp.Net Core, Next.js**
-- ⚡ Fun fact: **I'm a programmer who has a girlfriend**
+- 🔭 I’m currently working on: **[DK-Media](https://dk-media.no)**
+- 🔭 I’m currently working on: **[Bivrost Consulting AS]**
+- 💬 Ask me about: **C#, Html, Css / Scss, Angular, Javascript, Typescript, Asp.Net Core, Next.js**
+- ⚡ Fun fact: **I'm a programmer who has a girlfriend and a cat**
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
